@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e0035cb847be93d1fa4a9a7aa43b5d428e11de95">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_40e1ea2e02ea99605829a7d80a260b14d1cf33b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1e6aad3daf95845f5e4042521ba880ee16afd549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8cf6f07cfad3100ba204feb207ba881631122a73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_a6b25c73428ba76d5f5d958fb2ffd55aee8370a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_caace899907be24e7bf49646d3d82cb163b769ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bb4333fddaf4817a7e5ecd67ba1d63eff9c45afa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_006bd23e8018e40f15bcfa0bba25744fac95441d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_923cf4cb37714216aa4c9faa6b37cd87eb568709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6a880b240d443a78eae000a720cecbb62f4880d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_a7fd78a9d140cf7b435c8b81963801cbb0dda71b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_162d7e55a6851c8c0a017eb6fd012863e4db17ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ccb222f5dd6bb047edbbd16667139290f1a43a00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_52fa1455bcca1af7c3ec73fc8be46c4a217139e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_61afb897aff7b1adb03112c55256e69511b67618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_af1f9ca84bf00c90b01dd409e5540ec7718d39dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_4dda3e7e65bcc313ccd15b6bba63fe84a5f69e80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_952754f205c9c497c19f736f8cbe4b3baa334d8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_e4eed7dae67a318663f6f9e91ab2a24f2b454e32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_68266d1e4f79c8d7f8344118ada2c670a6ed110e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="995170ed068b62659c37a37618769ec48ee01d7e">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_abdd7302c81a0e507222a62fcec5ff02ae42fed2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_42d27be22dc2beaab0ebb464a5b8c7ae717f5f1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_515184318700dbb479d555218f7760f4331bb6d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tgtob\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_1275e63a40f3bf61680e850a2681b0dce6b09236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\FilesHDD\Dokument\GitHub\Esp_Android_Client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_67615e5bd3a2d6f64cca8e1723b64b26dc211950\classes.dex" />
+    </item>
+
+</items>

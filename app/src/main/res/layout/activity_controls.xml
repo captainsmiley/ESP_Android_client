@@ -1,0 +1,102 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+    <android.support.v7.widget.Toolbar android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="41dp">
+
+        <TextView
+            android:text="Turn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textTurnSlide"
+            android:layout_weight="1" />
+
+        <CheckBox
+            android:text="Activate turn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkBoxTurn"
+            android:layout_weight="0.21" />
+    </LinearLayout>
+
+    <SeekBar
+        android:max="180"
+        android:progress="90"
+
+        android:paddingTop="40px"
+        android:paddingBottom="40px"
+        android:paddingLeft="20px"
+        android:paddingRight="20px"
+        android:minHeight="30dip"
+        android:maxHeight="30dip"
+
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar2"
+        android:layout_weight="0.05" />
+
+    <SeekBar
+        android:max="2000"
+        android:progress="1000"
+
+        android:paddingTop="40px"
+        android:paddingBottom="40px"
+        android:paddingLeft="20px"
+        android:paddingRight="20px"
+        android:minHeight="30dip"
+        android:maxHeight="30dip"
+
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/speed"
+        android:layout_weight="0.05" />
+
+    <ToggleButton
+        android:text="ToggleButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toggleButton"
+        android:textOff="BW"
+        android:textOn="FW" />
+
+    <Button
+    android:text="Activte Drive"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:onClick="activate_drive"
+    android:id="@+id/a_drive" />
+
+    <Button
+        android:text="Deactivate Drive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="deactivate_drive"
+        android:id="@+id/d_drive" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+
+</LinearLayout>
